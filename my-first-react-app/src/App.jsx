@@ -3,9 +3,7 @@ import Search from './components/Search';
 
 const App = () => {
   const [searchTerm, setSearchTerm] = useState(''); 
-useEffect(() => {
 
-}
 
   return (
     <main>
